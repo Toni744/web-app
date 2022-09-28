@@ -1,4 +1,4 @@
-node{
+/*node{
     def MHD = tool name: "maven3.8.4"
     stage('code'){
         git branch: 'development', url: 'https://github.com/team16flight/web-app.git'
